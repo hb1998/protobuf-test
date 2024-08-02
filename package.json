@@ -15,6 +15,7 @@
     "axios": "^1.7.2",
     "body-parser": "^1.20.2",
     "express": "^4.19.2",
+    "lzutf8": "^0.6.3",
     "protobufjs": "^7.3.2"
   }
 }
